@@ -1,1 +1,1 @@
-# SQL-Customer-Churn-Analysis
+# SQL-Analysis-Projects
